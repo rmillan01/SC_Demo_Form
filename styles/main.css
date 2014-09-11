@@ -1,0 +1,19 @@
+/* main form CSS file */
+
+h1, h2 {
+	font-family: arial;
+	text-align: center;
+}
+
+
+
+#main {
+    text-align: left;
+    padding: 20px;
+    margin: 5px 300px 5px 300px;
+    background-color: #e7a61a;
+	border-radius: 37px 37px 37px 37px;
+	-moz-border-radius: 37px 37px 37px 37px;
+	-webkit-border-radius: 37px 37px 37px 37px;
+	border: 0px solid #000000;
+}
